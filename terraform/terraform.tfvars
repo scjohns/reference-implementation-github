@@ -2,7 +2,7 @@
 # region =
 
 ### Deployment Name ###
-deployment_name = "bitbucket-sandbox"
+deployment_name = "github-sandbox"
 
 ### Sourcegraph Variables ###
 # sourcegraph_version = 
