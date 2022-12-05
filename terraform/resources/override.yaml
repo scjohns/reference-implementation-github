@@ -15,7 +15,7 @@ frontend:
       # additional aws alb ingress controller supported annotations
       # ...
     # replace with your actual domain
-    host: bitbucket-sandbox.sourcegraph.com
+    host: github-sandbox.sourcegraph.com
   replicaCount: 2
   resources:
     limits:
