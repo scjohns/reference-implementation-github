@@ -10,16 +10,4 @@
     "all"
   ],
   "authorization": {},
-  "auth.providers": [
-    {
-      "type": "github",
-      "url": "https://github.example.com",
-      "displayName": "GitHub",
-      "clientID": "replace-with-the-oauth-client-id",
-      "clientSecret": "replace-with-the-oauth-client-secret",
-      "allowSignup": false,
-      "allowOrgs": ["your-org-name"],
-      "allowOrgsMap": { "orgName": ["your-team-name"]}
-    }
-  ]
 }
